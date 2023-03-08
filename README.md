@@ -1,4 +1,4 @@
-# geotechnical_calculations_package
+# geotechnical calculation package
 Set of simple geotechnical calculations
 
 ## 01 Pipelayer
