@@ -20,4 +20,5 @@ and combination of forces on a cap from excel file
 
 HINT: dwg file should contain circles as a pile representation and polyline as a foundation shape (Calculation of area)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/100446096/223678109-8e011d8e-b41e-48cd-8168-fa6837ceb83d.png" height="200">
+<img src="https://user-images.githubusercontent.com/100446096/223679400-6c8e1c9b-1908-498c-bd6d-950c6ac14b33.png" width="100" height="100">
+
