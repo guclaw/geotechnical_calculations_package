@@ -7,6 +7,9 @@ Calculation of reaction under pipelayer's tracks
 ## 02 Truck mixer pump (pompogruszka) 
 Calculation of reaction under truck mixer pump's tracks
 
+![image](https://user-images.githubusercontent.com/100446096/223677268-46a6adb5-a623-44c8-b9c6-1d0af1e8367b.png)
+
+
 ## 03 Stiff cap method (metoda sztywnego oczepu)
 
 Calculation of forces in piles/columns according the stiff foundation cap method with integraion of ZWCAD application
