@@ -19,3 +19,5 @@ Calculation of forces in piles/columns according the stiff foundation cap method
 and combination of forces on a cap from excel file
 
 HINT: dwg file should contain circles as a pile representation and polyline as a foundation shape (Calculation of area)
+
+![image](https://user-images.githubusercontent.com/100446096/223678109-8e011d8e-b41e-48cd-8168-fa6837ceb83d.png)
