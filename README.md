@@ -4,7 +4,6 @@ Set of simple geotechnical calculations
 ## 01 Pipelayer
 Calculation of reaction under pipelayer's tracks
 
-![image](https://user-images.githubusercontent.com/100446096/223677914-af8d4bdf-432d-4cc9-8b02-af653cebc4c9.png)
 <img src="https://user-images.githubusercontent.com/100446096/223677914-af8d4bdf-432d-4cc9-8b02-af653cebc4c9.png" height="400">
 
 ## 02 Truck mixer pump (pompogruszka) 
