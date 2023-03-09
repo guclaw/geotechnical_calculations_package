@@ -21,3 +21,5 @@ HINT: dwg file should contain circles as a pile representation and polyline as a
 
 <img src="https://user-images.githubusercontent.com/100446096/223679400-6c8e1c9b-1908-498c-bd6d-950c6ac14b33.png" width="400" height="400">
 
+## 04 Bending moment 
+Calculation of bearing capacity of steel profile with applied bending moment and axial force for HEB, HEA, IPE, RO profiles
